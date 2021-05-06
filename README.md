@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 
 
-- 🌱 I’m currently using `GoLang` `Python` <del>`java`</del> `k8s/rancher` 
+- 🌱 I’m currently using `GoLang` `Python` <del>`java`</del>
 
 - ✈️ Open to Remote Job Opportunities 🍻
