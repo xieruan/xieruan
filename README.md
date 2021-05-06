@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working at [PingCAP](https://pingcap.com/)
 
 - 🌱 I’m currently using `GoLang` `Python` <del>`java`</del> `k8s/rancher` 
 
