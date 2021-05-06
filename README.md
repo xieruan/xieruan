@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![](https://github-readme-stats.vercel.app/api?username=xieruan&show_icons=true&line_height=21&show_icons=true&theme=vue&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=xieruan&show_icons=true&layout=compact&theme=vue&hide_border=true&hide=html,css)
+
 
 
 - 🌱 I’m currently using `GoLang` `Python` <del>`java`</del> `k8s/rancher` 
